@@ -12,3 +12,4 @@ Como segundo juego  realizamos  el juego llamado el ahorcado  con la misma base 
 ![image](https://user-images.githubusercontent.com/99284200/153059273-148a4dc7-a650-44cf-97be-9796d30f5c7e.png)
 ![image](https://user-images.githubusercontent.com/99284200/153059355-57eca18b-be6f-4da0-a5bf-4cd52ac8049c.png)
 El juego tiene una tematica sencilla para que no se complique a la hora de jugarlo de esta manera se puedan entreterner jugando y aprendiendo, este proyecto lo elaboramos pensando en que se puede divertir mientras se esta estudiando ya que de esta manera  se logra facilitar mejor la comprencion sobre un tema  nuevo para las personas 
+Desarrollado por:Jorge Rodriguez jrodriguezm18@est.ups.edu.ec y Enni Carreño ennicg56@gmail.com
